@@ -1,4 +1,4 @@
-# cosmwasm-ressources
+# CosmWasm Resources
 
 ## Websites
 - [CosmWasm](https://cosmwasm.com/)
