@@ -36,5 +36,6 @@
 - [ts-relayer](https://github.com/confio/ts-relayer)
   - [setup docs](https://github.com/confio/ts-relayer/blob/main/spec/ibc-setup.md)
   - [full documentation](https://github.com/confio/ts-relayer/blob/main/spec/index.md)
+- [Images for blockchains in CI](https://github.com/confio/relayer-ci-images)
 
 ## Misc
