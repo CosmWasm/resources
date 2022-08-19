@@ -37,7 +37,7 @@ Ethan's HackAtom video. Intro starts here about basic interfaces: https://www.yo
 
 Here I get into a real example, implementing "Simple ICA" contracts that are similar to Interchain Accounts: https://www.youtube.com/watch?v=x75UobIr4qo&t=9070s
 
-  - [Simple ICA example](https://github.com/confio/cw-ibc-demo): Example IBC enabled contracts along with full stack integration tests 
+  - [Simple ICA example](https://github.com/confio/cw-ibc-demo/tree/v0.1.1): Example IBC enabled contracts along with full stack integration tests (v0.1.1 is the functionality demo'd in the video - later versions are improvements on the protocol
 
 Here is the code and tests for another approach, a contract speaking standard ics20 protocol, so it connects to standard Go module on
 a non-CosmWasm chain:
